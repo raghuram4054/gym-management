@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_total" value="name:quantity;datatype:int,name:price;datatype:int,name:tbl_equip.total;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:quantity;datatype:int,name:price;datatype:int,name:tbl_equip.total;datatype:int" />
+	<infoitem key="UD_eqpdelete" value="name:equipid;datatype:int,name:name;datatype:string,name:vendor;datatype:string,name:amount;datatype:int,name:phone;datatype:string,name:address;datatype:string,name:date;datatype:date" />
+	<infoitem key="UD_del" value="name:equipid;datatype:int,name:name;datatype:string,name:vendor;datatype:string,name:amount;datatype:int,name:phone;datatype:string,name:address;datatype:string,name:date;datatype:date" />
+	<infoitem key="UD_Recordset1" value="name:equipid;datatype:int,name:name;datatype:string,name:vendor;datatype:string,name:amount;datatype:int,name:phone;datatype:string,name:address;datatype:string,name:date;datatype:date" />
+	<infoitem key="UD_delete" value="name:equipid;datatype:int,name:name;datatype:string,name:vendor;datatype:string,name:amount;datatype:int,name:phone;datatype:string,name:address;datatype:string,name:date;datatype:date" />
+</info>

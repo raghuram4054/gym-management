@@ -1,0 +1,122 @@
+ body{
+	 background:#DDD;
+ }
+ 
+ 
+ #head{
+	width: 900px;
+	padding: 0px;
+	height: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	  
+	 
+	 
+ }
+ 
+ #head2{
+	 height:50px;
+	 background-color:#696;
+ }
+ #head3{
+	 height:30px;
+	 background-color:#033;}
+	 
+	 
+	 #logo{
+		 width:700px;
+		 margin-left:auto;
+		 margin-right:auto;
+		 background-image:url(../image/kk_logo.png);
+		 height:175px;
+		 background-repeat:no-repeat;
+		 background-position:left;
+		 background-height:30px;
+		 margin-top:50px;
+		  
+	 }
+	 #content{
+		  width:700px;
+		 margin-left:auto;
+		 margin-right:auto;
+	 }
+		 
+	 
+	 #contentl{
+		 float:left;
+		 width:180px;
+		 background-color:#696;
+		 
+		 
+		 
+		 
+		 
+	 }
+	 
+	 #contentr{
+		 float:right;
+		 width:500px;
+		 background-color:#000;
+		 
+		 
+		 
+		 
+		 
+	 }
+#contentr {
+	color: #EEE;
+}
+
+ #content2{
+	width: 900px;
+	 
+	margin: auto;
+	margin-bottom:10;
+ }
+ #content2l{
+	float: left;
+	width: 262px;
+	margin:auto;
+	margin-left:5px;
+	
+ }
+ #content2r{
+	 
+	 float:left;
+	 width:300px;
+	 margin-left:28px
+ }
+ 
+ 
+	 
+#content2r {
+	font-size: 14px;
+	color: #DDD;
+}
+
+#footer{
+	background-color: #393;
+	height: 50px;
+	z-index: 1;
+	margin-top: 50px;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+	margin-top: 40px;
+}
+#inside{
+	float: right;
+	width: 500px;
+	height: 100px;
+	font-size: 36px;
+	margin-top: 70px;
+	font-weight: bold;
+	 
+}
+ 
+ #inside label{
+	 text-height:20px;
+	  
